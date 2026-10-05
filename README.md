@@ -11,4 +11,5 @@ El objetivo de esta practica es procesar un archivo de texto plano que contiene 
 Asegurate de tener instalado Python y las siguientes librerias necesarias para la ejecucion del script:
 
 ```bash
-pip install nltk matplotlib
+pip install nltk
+pip install matplotlib
